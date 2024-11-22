@@ -135,5 +135,6 @@ void outputImage(const std::string& output_file, unsigned char* grey_image, int 
 ![mod](https://github.com/user-attachments/assets/6e530813-b0de-4b4d-87b2-8cd69e306e51)
 ### Grayscale Image
 <img src= "https://github.com/user-attachments/assets/1eadd064-0947-4677-b0db-a5457f924d07" width=50%>
+
 ## Result:
 The CUDA program successfully converts the input image to grayscale using the GPU. The resulting grayscale image is saved as an output file. This example demonstrates the power of GPU parallelism in accelerating image processing tasks.
