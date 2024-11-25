@@ -13,8 +13,8 @@ The aim of this project is to demonstrate how to convert an image to grayscale u
 8. Clean up allocated memory.
 ## Program:
 ```
-NAME: CHAITANYA P S
-REGISTER NUMBER: 212222230024
+NAME: VIGNESH KUMARAN N S
+REGISTER NUMBER: 212222230171
 ```
 ```
 
